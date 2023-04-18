@@ -16,8 +16,8 @@ result:
 .section .code
 _main:
     push    ebp
-	mov	    ebp, esp
-	sub	    esp, 20
+    mov	    ebp, esp
+    sub	    esp, 20
 
     mov     DWORD PTR [esp + 12], 33
     mov     DWORD PTR [esp + 8], OFFSET FLAT:title
