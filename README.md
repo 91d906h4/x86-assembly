@@ -1,2 +1,1 @@
-# x86 Assembly Language Practice
-
+# x86 Assembly Language (Intel Syntax)
