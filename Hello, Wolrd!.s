@@ -11,7 +11,7 @@ _main:
     push ebp
 
     lea eax, [message]
-	mov [esp], eax
+    mov [esp], eax
     call _printf
 
     pop ebp
